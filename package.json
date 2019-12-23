@@ -32,7 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "coverage:eslint": "eslint --env browser src --output-file coverage/eslint.html --format html"
+    "coverage:eslint": "eslint src --env browser --output-file coverage/eslint.html --format html"
   },
   "browserslist": {
     "production": [
