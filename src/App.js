@@ -7,7 +7,7 @@ import theme from './theme';
 
 import { Estimate, Simulate } from './enhancers';
 
-const GlobalStyle = createGlobalStyle`
+export const GlobalStyle = createGlobalStyle`
   @font-face {
     font-family: "Rubik";
     src: url("/assets/fonts/Rubik/Rubik-Light.ttf");

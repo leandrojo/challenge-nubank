@@ -58,7 +58,7 @@ const Plus = ({ disabled, onClick }) => (
 
 // TODO: Create Context API for external state, but imperative.
 
-export const NumberControl = ({ disabled, onClickDecrement, onClickIncrement }) => (
+const NumberControl = ({ disabled, onClickDecrement, onClickIncrement }) => (
   <Wrapper>
     <Minus
       disabled={disabled[0]}

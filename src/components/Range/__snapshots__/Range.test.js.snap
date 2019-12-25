@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Range with initial value 1`] = `
+<div
+  className="sc-bdVaJa QxiRk"
+>
+  <input
+    className="sc-bwzfXH iORXor"
+    max={1000}
+    min={1}
+    name="period"
+    onChange={[Function]}
+    type="range"
+    value={500}
+  />
+  <div
+    className="sc-htpNat dkFsgT"
+    style={
+      Object {
+        "width": "49.949949949949946%",
+      }
+    }
+  />
+</div>
+`;

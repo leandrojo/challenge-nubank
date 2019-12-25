@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form with initial value 1`] = `
+<form
+  className="sc-htpNat flIVyN"
+>
+  <input
+    className="sc-bxivhb dRyoeN"
+    id=""
+    name="firstDeposit"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onError={[Function]}
+    onFocus={[Function]}
+    pattern="\\\\d*"
+    type="text"
+    value=""
+  />
+</form>
+`;

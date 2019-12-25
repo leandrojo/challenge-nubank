@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input with initial value 1`] = `
+<input
+  className="sc-bdVaJa jIXIXs"
+  id=""
+  name="firstDeposit"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onError={[Function]}
+  onFocus={[Function]}
+  pattern="\\\\d*"
+  type="text"
+  value=""
+/>
+`;

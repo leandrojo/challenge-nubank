@@ -99,7 +99,7 @@ const Fill = styled.div`
   -moz-top: calc(50% - 2px);
 `;
 
-export const Range = ({
+const Range = ({
   max,
   min,
   name,

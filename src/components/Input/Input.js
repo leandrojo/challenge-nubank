@@ -19,7 +19,7 @@ const StyledInput = styled.input`
 
 const ref = React.createRef();
 
-export const Input = ({
+const Input = ({
   errors,
   id,
   isMoney,

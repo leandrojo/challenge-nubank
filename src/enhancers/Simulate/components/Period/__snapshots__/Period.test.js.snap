@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Simulate/Period with initial value 1`] = `
+<div
+  className="sc-bwzfXH sc-VigVT jbIknr"
+>
+  <label
+    className="sc-gqjmRU hJTcQd"
+  >
+    For
+  </label>
+  <span
+    className="sc-jTzLTM nloSc"
+  >
+    10 months
+  </span>
+  <div
+    className="sc-dnqmqq PpuwV"
+  >
+    <input
+      className="sc-iwsKbI gUpUyg"
+      max={240}
+      min={1}
+      name=""
+      onChange={[Function]}
+      type="range"
+      value={10}
+    />
+    <div
+      className="sc-gZMcBi dsEyqX"
+      style={
+        Object {
+          "width": "3.7656903765690375%",
+        }
+      }
+    />
+  </div>
+</div>
+`;

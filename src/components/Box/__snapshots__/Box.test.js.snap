@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box with text 1`] = `
+<div
+  className="sc-bwzfXH kaKVTG"
+>
+  Test Message
+</div>
+`;
